@@ -1,8 +1,8 @@
 <?php
-$nombre = $_POST['nombre'];
-$Email = $_POST['Email'];
-$Telefono = $_POST['Telefono'];
-$Consulta = $_POST['Consulta'];
+$name = $_POST['name'];
+$mail = $_POST['mail'];
+$phone = $_POST['phone'];
+$message = $_POST['message'];
 
 $header = 'From: ' . $mail . " \r\n";
 $header .= "X-Mailer: PHP/" . phpversion() . " \r\n";
@@ -15,8 +15,8 @@ $message .= "Teléfono de contacto: " . $phone . " \r\n";
 $message .= "Mensaje: " . $_POST['message'] . " \r\n";
 $message .= "Enviado el: " . date('d/m/Y', time());
 
-$para = 'franco.torres1705@gmail.com';
-$asunto = 'Mensaje de Broparadores ';
+$para = 'broparadores@gmail.com';
+$asunto = 'Mensaje de... (Escribe como quieres que se vea el remitente de tu correo)';
 
 mail($para, $asunto, utf8_decode($message), $header);
 
