@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaitach&label=Profile%20views&color=0e75b6&style=flat" alt="kaitach" /> </p>
 
-<h3 align="left">Contactame with me:</h3>
+<h3 align="left">Contactame:</h3>
 <p align="left">
 <a href="https://fb.com/kaiser1711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaiser1711" height="30" width="40" /></a>
 <a href="https://instagram.com/kaitachh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaitachh" height="30" width="40" /></a>
