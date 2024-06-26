@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Franco Torres</h1>
-<h3 align="center">Soy un desarrollador Front-End con habilidades en HTML, CSS y JavaScript. Actualmente estoy estudiando para convertirme en un desarrollador Full Stack.</h3>
+<h3 align="center">Desarrollador fullstack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaitach&label=Profile%20views&color=0e75b6&style=flat" alt="kaitach" /> </p>
 
